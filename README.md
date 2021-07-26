@@ -28,7 +28,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/Venzar/simbf  
+$ git clone https://github.com/Venzar/simbf 
 ```
 ## ⇨  Run Script
 ```
